@@ -1,0 +1,17 @@
+"mp_rr_party_crasher"
+{
+	assets
+	{
+		minimap overviews\mp_rr_party_crasher
+		fw_zone_imc overviews\mp_rr_party_crasher_zones_imc
+		fw_zone_mil overviews\mp_rr_party_crasher_zones_mil
+	}
+
+	pos_x -4989
+	pos_y 5646
+	scale 2.5
+	displayDist 2048
+	threatMaxDist 2500
+	threatNearDist 500
+	threatFarDist 2000
+}

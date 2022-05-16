@@ -1,0 +1,17 @@
+"mp_rr_tropic_island_mu1"
+{
+	assets
+	{
+		minimap overviews\mp_rr_tropic_island_mu1
+		fw_zone_imc overviews\mp_rr_tropic_island_mu1_zones_imc
+		fw_zone_mil overviews\mp_rr_tropic_island_mu1_zones_mil
+	}
+
+	pos_x -50606
+	pos_y 52139
+	scale 25
+	displayDist 2048
+	threatMaxDist 2500
+	threatNearDist 500
+	threatFarDist 2000
+}

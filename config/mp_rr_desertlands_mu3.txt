@@ -1,0 +1,17 @@
+"mp_rr_desertlands_mu3"
+{
+	assets
+	{
+		minimap overviews\mp_rr_desertlands_mu3_tt
+		fw_zone_imc overviews\mp_rr_desertlands_mu1_zones_imc
+		fw_zone_mil overviews\mp_rr_desertlands_mu1_zones_mil
+	}
+
+	pos_x -45056
+	pos_y 45055
+	scale 22
+	displayDist 4096
+	threatMaxDist 2500
+	threatNearDist 500
+	threatFarDist 2000
+}

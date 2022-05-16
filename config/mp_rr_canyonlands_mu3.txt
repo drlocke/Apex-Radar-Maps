@@ -1,0 +1,17 @@
+"mp_rr_canyonlands_mu3"
+{
+	assets
+	{
+		minimap overviews\mp_rr_canyonlands_mu3
+		fw_zone_imc overviews\mp_rr_canyonlands_mu2_zones_imc
+		fw_zone_mil overviews\mp_rr_canyonlands_mu2_zones_mil
+	}
+
+	pos_x -37541
+	pos_y 43886
+	scale 20
+	displayDist 4096
+	threatMaxDist 2500
+	threatNearDist 500
+	threatFarDist 2000
+}

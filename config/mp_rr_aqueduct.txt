@@ -1,0 +1,17 @@
+"mp_rr_aqueduct"
+{
+	assets
+	{
+		minimap overviews\mp_rr_aqueduct
+		fw_zone_imc overviews\mp_rr_aqueduct_zones_imc
+		fw_zone_mil overviews\mp_rr_aqueduct_zones_mil
+	}
+
+	pos_x -4788
+	pos_y 689
+	scale 2.7
+	displayDist 2048
+	threatMaxDist 2500
+	threatNearDist 500
+	threatFarDist 2000
+}

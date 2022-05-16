@@ -1,0 +1,17 @@
+"mp_rr_arena_skygarden"
+{
+	assets
+	{
+		minimap overviews\mp_rr_arena_skygarden
+		fw_zone_imc overviews\mp_rr_arena_skygarden_zones_imc
+		fw_zone_mil overviews\mp_rr_arena_skygarden_zones_mil
+	}
+
+	pos_x -8194
+	pos_y 8093
+	scale 4
+	displayDist 2048
+	threatMaxDist 2500
+	threatNearDist 500
+	threatFarDist 2000
+}

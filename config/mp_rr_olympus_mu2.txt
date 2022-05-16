@@ -1,0 +1,17 @@
+"mp_rr_olympus_mu2"
+{
+	assets
+	{
+		minimap overviews\mp_rr_olympus_mu2
+		fw_zone_imc overviews\mp_rr_olympus_mu2_zones_imc
+		fw_zone_mil overviews\mp_rr_olympus_mu2_zones_mil
+	}
+
+	pos_x -52024
+	pos_y 48025
+	scale 22
+	displayDist 2048
+	threatMaxDist 2500
+	threatNearDist 500
+	threatFarDist 2000
+}

@@ -1,0 +1,17 @@
+"mp_rr_arena_composite"
+{
+	assets
+	{
+		minimap overviews\mp_rr_arena_composite
+		fw_zone_imc overviews\mp_rr_arena_composite_zones_imc
+		fw_zone_mil overviews\mp_rr_arena_composite_zones_mil
+	}
+
+	pos_x -7196
+	pos_y 10181
+	scale 3.5
+	displayDist 2048
+	threatMaxDist 2500
+	threatNearDist 500
+	threatFarDist 2000
+}
